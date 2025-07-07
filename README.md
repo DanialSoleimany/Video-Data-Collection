@@ -1,5 +1,5 @@
 
-# Video Object Cropper Using YOLO
+# Data collection from video using YOLO
 
 Extract cropped images of specific objects from a defined time interval of a video using a YOLO model. The script processes frames at a target FPS and organizes the cropped objects in folders by second and frame number.
 
