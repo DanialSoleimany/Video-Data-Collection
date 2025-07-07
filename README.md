@@ -102,5 +102,3 @@ output_dir/
 * 🧪 Use this method to prepare datasets for training or evaluation tasks.
 
 ---
-
-اگر مایل باشی می‌تونم نسخه فارسی این README رو هم برات بنویسم یا فایل `.md` آماده دانلود بسازم.
